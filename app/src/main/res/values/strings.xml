@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gesture Detector</string>
+    <string name="single_tap">single_tap!</string>
+    <string name="double_tap">double_tap!</string>
+    <string name="double_tap_event">double_tap_event!</string>
+    <string name="on_down">on_down!</string>
+    <string name="screen_pressed">screen_pressed!</string>
+    <string name="single_tap_up">single_tap_up!</string>
+    <string name="scroll">scroll!</string>
+    <string name="long_press">long_press!</string>
+    <string name="flinging">flinging!</string>
+    <string name="applicant_name">Android Codility</string>
+</resources>
